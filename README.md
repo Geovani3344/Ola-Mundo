@@ -1,4 +1,4 @@
 # Olá, Mundo!
- Primeiro repositorio com versionamento
+ Primeiro repositorio.
 
  Repositório criado para aprender versionamento!
